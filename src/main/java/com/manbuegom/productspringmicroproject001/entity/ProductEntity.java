@@ -1,4 +1,4 @@
-package com.manbuegom.productmicroteachermanagement.entity;
+package com.manbuegom.productspringmicroproject001.entity;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

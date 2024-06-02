@@ -1,14 +1,12 @@
-package com.manbuegom.productmicroteachermanagement.controller;
+package com.manbuegom.productspringmicroproject001.controller;
 
-import com.manbuegom.productmicroteachermanagement.entity.ProductEntity;
-import com.manbuegom.productmicroteachermanagement.repository.ProductRepository;
+import com.manbuegom.productspringmicroproject001.entity.ProductEntity;
+import com.manbuegom.productspringmicroproject001.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-import java.util.Optional;
 
 @RestController
 @RequestMapping("/api/products")
