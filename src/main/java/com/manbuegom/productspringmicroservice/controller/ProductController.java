@@ -1,7 +1,7 @@
-package com.manbuegom.productspringmicroproject001.controller;
+package com.manbuegom.productspringmicroservice.controller;
 
-import com.manbuegom.productspringmicroproject001.entity.ProductEntity;
-import com.manbuegom.productspringmicroproject001.repository.ProductRepository;
+import com.manbuegom.productspringmicroservice.entity.ProductEntity;
+import com.manbuegom.productspringmicroservice.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

@@ -1,4 +1,4 @@
-package com.manbuegom.productspringmicroproject001;
+package com.manbuegom.productspringmicroservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
